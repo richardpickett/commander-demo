@@ -1,0 +1,23 @@
+{
+  "name": "commander-demo",
+  "version": "0.0.1",
+  "description": "Demo how to use tj's commander npm package",
+  "main": "src/cli.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardpickett/Commander-Demo.git"
+  },
+  "author": "Richard@RichardPickett.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/richardpickett/Commander-Demo/issues"
+  },
+  "homepage": "https://github.com/richardpickett/Commander-Demo#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
